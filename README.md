@@ -3,6 +3,7 @@ This is a game I made from python in April/May 2020 with the pygame library.
 The game is simply the well-known Snake game. If you have never played it, then where have you been, caveman? ;)
 Nevertheless, I added a new item so that the snake can consume it to reduce its body length.
 
+
 # Playing the game
 ### Steps to run the game through python
 1. Locate the Code folder.
@@ -18,6 +19,7 @@ Nevertheless, I added a new item so that the snake can consume it to reduce its 
 1. Extract the Hisssss.zip folder to anywhere you'd like. (Extract in a new directory is recommended)
 2. Run the SneakySnake.exe application. (Make sure the data folder is in the same directory as the application)
 3. Enjoy!
+
 
 # Additional notes
 - If you feel like you can't immediately turn directions, it's because of how the code is setup.

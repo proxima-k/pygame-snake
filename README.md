@@ -7,11 +7,11 @@ Nevertheless, I added a new item so that the snake can consume it to reduce its 
 # Playing the game
 ### Steps to run the game through python
 1. Locate the Code folder.
-  a. In the folder contains a data folder which stores data required for visuals, sfx and highscore.
-  b. The SnakeGame.py file contains python code for the menus, game mechanics, etc.
+  - In the folder contains a data folder which stores data required for visuals, sfx and highscore.
+  - The SnakeGame.py file contains python code for the menus, game mechanics, etc.
 2. Since I have little knowledge on virtual environments at that time, I didn't create one. The modules you need are:
-  a. python v3.7.4
-  b. pygame v1.9.2
+  - python v3.7.4
+  - pygame v1.9.2
 3. Once you have these libraries installed, you can run the code with the said python version in step 2.
 4. Enjoy!
 

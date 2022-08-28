@@ -18,8 +18,9 @@ Nevertheless, I added a new item so that the snake can consume it to reduce its 
 
 ### Steps to run the game through application
 1. Extract the Hisssss.zip folder to anywhere you'd like. (Extract in a new directory is recommended)
-2. Run the SneakySnake.exe application. (Make sure the data folder is in the same directory as the application)
-3. Enjoy!
+    - The folder contains the game application and data for the game to work.
+3. Run the SneakySnake.exe application. (Make sure the data folder is in the same directory as the application)
+4. Enjoy!
 </br>
 
 # Additional notes

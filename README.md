@@ -7,8 +7,8 @@ Nevertheless, I added a new item so that the snake can consume it to reduce its 
 
 # Sneak Peek
 Here's some gameplay of the game. Very straightforward 😊.  
-<img src="gifs/SnakeGameplay.gif" alt="Snake collecting coins">
-<img src="gifs/SnakeSnack.gif" alt="Snake collecting coins">  
+<img src="gifs/SnakeGameplay.gif" alt="Snake collecting coins" width="40%" height="40%">
+<img src="gifs/SnakeSnack.gif" alt="Snake collecting coins" width="40%" height="40%">  
 Also, there's some juicy music in the game as well. Better don't miss out!
 
 # Playing the game

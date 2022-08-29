@@ -2,8 +2,14 @@
 This is a game I made from python in April/May 2020 with the pygame library.  
 The game is simply the well-known Snake game.
 If you have never played it, then where have you been, caveman?😉  
-Nevertheless, I added a new item so that the snake can consume it to reduce its body length.  
+Nevertheless, I added a new item so that the snake can consume it to reduce its body length.
 </br>
+
+# Sneak Peek
+Here's some gameplay of the game. Very straightforward 😊.  
+<img src="gifs/SnakeGameplay.gif" alt="Snake collecting coins">
+<img src="gifs/SnakeSnack.gif" alt="Snake collecting coins">  
+Also, there's some juicy music in the game as well. Better don't miss out!
 
 # Playing the game
 ### Steps to run the game through python
